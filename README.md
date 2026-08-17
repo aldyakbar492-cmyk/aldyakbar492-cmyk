@@ -34,3 +34,8 @@
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@aldyyy_engineer)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aldy-akbar-8776293b6/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/6285211787041)
+
+### 📊 GitHub Activity & Stats
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=aldyakbar492-cmyk)]
+
